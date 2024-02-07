@@ -3,6 +3,8 @@
 <h3 align="center">18 yo at Epitech</h3>
 
 <br/>
+![Uploading sharingan.gif…]()
+
 
 - 🌱 I’m currently learning **cybersecurity (Ethical Hacking)**
 
