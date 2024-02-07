@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Salem</h1>
 <h3 align="center">A passionate programmer student</h3>
 <h3 align="center">18 yo at Epitech</h3>
-<br\>
+
+
 - 🌱 I’m currently learning **cybersecurity (Ethical Hacking)**
 
 - 📫 How to reach me **salem.gnandi@epitech.eu**
