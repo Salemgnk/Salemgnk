@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **salem.gnandi@epitech.eu**
 
-<h3 align="left">Connect with me: @ni.salem</h3>
+<h3 align="left">Connect with me: Instagram : @ni.salem</h3>
 <p align="left">
 </p>
 
