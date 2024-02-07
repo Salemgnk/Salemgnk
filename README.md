@@ -2,8 +2,9 @@
 <h3 align="center">A passionate programmer student</h3>
 <h3 align="center">18 yo at Epitech</h3>
 
+![sharingan](https://github.com/Salemgnk/Salemgnk/assets/146480755/c1f86b0e-a126-423c-b321-02e18c11061c)
+
 <br/>
-![Uploading sharingan.gif…]()
 
 
 - 🌱 I’m currently learning **cybersecurity (Ethical Hacking)**
