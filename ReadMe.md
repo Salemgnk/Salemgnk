@@ -4,8 +4,8 @@
 ## 📸 A Glimpse of My Work
 Check out my first React and Vite project, [*Quelques instants avant l’aube*](https://poems-zeta.vercel.app/), where I share my poetry and writings. Here’s a preview of one of my poems, *Quand les masques tombent*:
 
-![Quelques instants avant l’aube](https://user-images.githubusercontent.com/123456789/abcdef123456789.png)  
-*Note: Replace the image URL above with an actual screenshot of your project.*
+![Quelques instants avant l’aube]![Screenshot_20250407_100148](https://github.com/user-attachments/assets/df208417-fb95-4c43-994b-85bba0c3ca68)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/salemni) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salem-gnandi/)
