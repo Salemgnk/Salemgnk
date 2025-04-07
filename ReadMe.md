@@ -4,7 +4,7 @@
 ## 📸 A Glimpse of My Work
 Check out my first React and Vite project, [*Quelques instants avant l’aube*](https://poems-zeta.vercel.app/), where I share my poetry and writings. Here’s a preview of one of my poems, *Quand les masques tombent*:
 
-![Screenshot_20250407_100148](https://github.com/user-attachments/assets/df208417-fb95-4c43-994b-85bba0c3ca68)
+[Screenshot_20250407_100148](https://github.com/user-attachments/assets/df208417-fb95-4c43-994b-85bba0c3ca68)
 
 
 ## 🌐 Socials:
