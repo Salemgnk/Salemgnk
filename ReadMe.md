@@ -1,15 +1,12 @@
+<p align="center">
+  <img src="./banner.png" alt="Salemgnk Banner" />
+</p>
+
 # 👋🏾 Hey, I'm Salem | 🛡️ Future Cybersecurity Engineer
 
 ## 🎯 Cybersecurity Enthusiast | 🛡️ Defense Strategist
 
 > "I turn pain into code and shields."
-
----
-
-[![GitHub Followers](https://img.shields.io/github/followers/Salemgnk?label=Followers&style=social)](https://github.com/Salemgnk)
-[![GitHub Stars](https://img.shields.io/github/stars/Salemgnk?label=Stars&style=social)](https://github.com/Salemgnk)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salemgnk&show_icons=true&theme=radical)](https://github.com/Salemgnk)
-
 ---
 
 ### 🧰 Tech Stack:
@@ -55,3 +52,4 @@
 - 🐦 Twitter/X: [@Scorpi777d](https://twitter.com/Scorpi777d)
 
 ---
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salemgnk&show_icons=true&theme=radical)](https://github.com/Salemgnk)
